@@ -28,3 +28,7 @@ As árvores de decisão são estruturas de dados amplamente utilizadas em Ciênc
 
 
 <p align="justify">Portanto, as árvores de decisão e suas variantes são ferramentas essenciais para modelagem e resolução de problemas computacionais complexos. A análise rigorosa de sua eficiência em termos de tempo e memória, associada à implementação cuidadosa em Python, possibilita o desenvolvimento de soluções otimizadas e adaptadas a diferentes cenários. Com a evolução dos desafios computacionais, o estudo detalhado dessas estruturas continuará sendo um componente vital no avanço de áreas como ciência de dados, aprendizado de máquina e sistemas computacionais.</p>
+
+## Referência Bibliográfica
+
+* CORMEM, T. H., LEISERSON C. E., RIVEST R. L., STEIN C., Algoritmos Teoria e Prática – Gen LTC, 3ª Edição, 2012, ISBN-13: 978-8535236996
