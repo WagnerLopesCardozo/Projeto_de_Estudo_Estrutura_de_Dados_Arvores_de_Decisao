@@ -3,6 +3,8 @@
 
 ![image](https://github.com/user-attachments/assets/309469e9-4971-4ac5-b65a-8ea20db1ca6e)
 
+Fonte figura: MATOS, M., 2023, acessado em: https://medium.com/@matheuscamposmattos/%C3%A1rvores-de-decis%C3%A3o-do-zero-uma-abordagem-interativa-9cc1195e32a5
+
 # Breve Introdução à Estrutura de Dados Árvores de Decisão
 
 <p align="justify">
